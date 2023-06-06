@@ -45,4 +45,5 @@ Contributions to this calculator project are welcome. If you encounter any issue
    
    # License
    
-This calculator application is open-source and released under the [MIT License](LICENSE).
+This calculator application is open-source and released under the [MIT License](https://opensource.org/licenses/MIT).
+
